@@ -1,0 +1,15 @@
+{
+    "data_name": "graph",
+    "saved_data_pth": "None",
+    "raw_data_pth": "data/pretrain_graph_data_12k.pkl",
+    "processed_data_pth": "data/processed_data_graph.pkl",
+    "corruption": "infilling",
+    "ratio": 0.3,
+    "num_of_span": 4,
+    "lamda": 3,
+    "epoch_num": 1,
+    "batch_size": 16,
+    "num_accumulation": 4,
+    "log_pth": "pretrain_log/test.txt",
+    "best_model_pth": "pretrain_models/test.pkl"
+}

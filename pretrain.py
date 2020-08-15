@@ -25,7 +25,7 @@ def train(model,dataset,optimizer,log_path, best_model_pth,batch_size = 16, num_
         model.train()
         epoch_loss = 0
         optimizer.zero_grad()
-        for iter in tqdm(range(iter_num)):
+        for iter in tqdm.tqdm(range(iter_num)):
             input_id, input_mask, output_id, output_mask = gen_batched_data(batch_size, iter, train_dataset)
             bsz = input_id.shape[0]
             logits = model(input_ids = input_id, decoder_input_ids = output_id, labels = output_id)[1]

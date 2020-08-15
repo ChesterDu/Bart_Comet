@@ -3,35 +3,77 @@ from transformers import BartTokenizer
 import tqdm
 from bart_evaluate import combine_into_words
 import numpy as np
+import pickle
 
 language_dict = {combine_into_words[k]:k for k in combine_into_words.keys()}
-tokenizer = BartTokenizer.from_pretraine('facebook/bart-large')
+tokenizer = BartTokenizer.from_pretrained('facebook/bart-large')
 
 mask = tokenizer.encode("<mask>")[1:-1][0]
+end_id = tokenizer.encode("</s>")[1:-1][0]
+start_id = tokenizer.encode("<s>")[1:-1][0]
 
 def make_pretrain_dataset(setting,saved_data_pth = None,raw_data_pth = None,processed_data_pth = None):
     if processed_data_pth != None:
         dataset = torch.load(processed_data_pth)
-        return dataset
+        ret_dataset = {}
+        ret_dataset["train"] = dataset[:100000]
+        ret_dataset["test"] = dataset[100000:102000]
+        return ret_dataset
     
     if setting.data_name == "graph":
         dataset = process_pretrain_graph_raw_data(raw_data_pth,saved_data_pth)
-        return dataset
+        ret_dataset = {}
+        ret_dataset["train"] = dataset[:100000]
+        ret_dataset["test"] = dataset[100000:102000]
+        return ret_dataset
     
     if setting.data_name == "path":
         dataset = process_pretrain_path_raw_data(setting,raw_data_pth,saved_data_pth)
-        return dataset
+        ret_dataset = {}
+        ret_dataset["train"] = dataset[:100000]
+        ret_dataset["test"] = dataset[100000:102000]
+        return ret_dataset
 
 
-def make_finetune_dataset(saved_data = None):
-    if saved_data != None:
-        dataset = torch.load(saved_data)
-        return dataset
+def make_finetune_dataset(saved_data_pth = None,raw_data_pth = None, processed_data_pth = None):
+    raw_data = torch.load(raw_data_pth)
+    train_data = raw_data["train"]
+    test_data = raw_data["test_data"]
+    dev_data = raw_data["dev"]
+    if processed_data_pth != None:
+        dataset = torch.load(processed_data_pth)
+        return dataset,train_data,test_data
+
+    def tokens2seqs(dataset):
+      ret_dataset = []
+      for s,r,o,_ in tqdm.tqdm(dataset):
+        sr_ids = [start_id] + tokenizer.encode(s + ' ')[1:-1] + tokenizer.encode(r)[1:-1]
+        o_ids = tokenizer.encode(o)[1:-1]
+        input_ids = sr_ids + [end_id]
+        output_ids = [start_id] + o_ids + [end_id]
+
+        ret_dataset.append((input_ids,output_ids))
+
+      return ret_dataset
+
+    dataset = {}
+    dataset["train"] = tokens2seqs(train_data)
+    dataset["dev"] = tokens2seqs(dev_data)
+    dataset["test"] = tokens2seqs(test_data)
+
+    if saved_data_pth != None:
+      torch.save(dataset,saved_data_pth)
+
+    return dataset,train_data,test_data
+
+    
 
 def process_pretrain_graph_raw_data(raw_data_pth,processed_data_pth = None):
     raw_data = torch.load(raw_data_pth)     #list of tuples
+    print(raw_data_pth)
+    # raw_data = pickle.load(open(raw_data_pth,"rb"))
     processed_dataset = []
-    for tuple_path in tqdm(raw_data):
+    for tuple_path in tqdm.tqdm(raw_data):
         input_lst = mege_to_sequence(tuple_path[0])
         output_lst = mege_to_sequence(tuple_path[1])
         input_ids = lst2ids(input_lst)
@@ -44,10 +86,12 @@ def process_pretrain_graph_raw_data(raw_data_pth,processed_data_pth = None):
     return processed_dataset
 
 def  process_pretrain_path_raw_data(setting,raw_data_pth,saved_data_pth):
-    raw_data = torch.load(raw_data_pth)
+    # raw_data = torch.load(raw_data_pth)     #list of tuples
+    print(raw_data_pth)
+    raw_data = pickle.load(open(raw_data_pth,"rb"))
     if setting.corruption == "none":
         processed_dataset = []
-        for tuple_path in tqdm(raw_data):
+        for tuple_path in tqdm.tqdm(raw_data):
             input_lst = mege_to_sequence(tuple_path)
             output_lst = mege_to_sequence(tuple_path)
             input_ids = lst2ids(input_lst)
@@ -62,7 +106,7 @@ def  process_pretrain_path_raw_data(setting,raw_data_pth,saved_data_pth):
     if setting.corruption == "deletion":
         ratio = float(setting.ratio)
         processed_dataset = []
-        for tuple_path in tqdm(raw_data):
+        for tuple_path in tqdm.tqdm(raw_data):
             input_lst = mege_to_sequence(tuple_path)
             output_lst = mege_to_sequence(tuple_path)
             output_ids = lst2ids(output_lst)
@@ -79,7 +123,7 @@ def  process_pretrain_path_raw_data(setting,raw_data_pth,saved_data_pth):
     if setting.corruption == "masking":
         ratio = float(setting.ratio)
         processed_dataset = []
-        for tuple_path in tqdm(raw_data):
+        for tuple_path in tqdm.tqdm(raw_data):
             input_lst = mege_to_sequence(tuple_path)
             output_lst = mege_to_sequence(tuple_path)
             output_ids = lst2ids(output_lst)
@@ -93,7 +137,7 @@ def  process_pretrain_path_raw_data(setting,raw_data_pth,saved_data_pth):
 
     if setting.corruption == "infilling":
         processed_dataset = []
-        for tuple_path in tqdm(raw_data):
+        for tuple_path in tqdm.tqdm(raw_data):
             input_lst = mege_to_sequence(tuple_path)
             output_lst = mege_to_sequence(tuple_path)
             output_ids = lst2ids(output_lst)
