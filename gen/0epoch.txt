@@ -1,0 +1,1200 @@
+baseball	IsA	baseball	1
+yo-yo	IsA	yo-	1
+dog	CapableOf	dog	1
+pen	UsedFor	pen	1
+something that be very good	HasProperty	something	1
+dog	IsA	dog.	1
+polo	IsA	p.	1
+bottle	MadeOf	bottle.bottle	1
+book	MadeOf	book	1
+sex	HasProperty	sexsex	1
+gold	IsA	gold	1
+sushi	IsA	spor	1
+telephone	UsedFor	telephone	1
+sleep	HasSubevent	sleepsleep	1
+soccer	IsA	soc....soccer is a	1
+fish	AtLocation	fish	1
+rose	IsA	rose is a	1
+cloud	AtLocation	cloud.	1
+linux	IsA	linux	1
+child	AtLocation	childchild	1
+fly	IsA	fly	1
+computer	AtLocation	computer	1
+apple	HasProperty	apple	1
+clothe	AtLocation	clothes	1
+book	AtLocation	book	1
+violin	IsA	violinstrument	1
+bottle	MadeOf	bottle.bottle	1
+coat	AtLocation	coatcoat	1
+computer	AtLocation	computer	1
+key	UsedFor	key	1
+cat	CapableOf	cat................	1
+camera	UsedFor	camera	1
+basketball player	HasProperty	basketball..........basketball.	1
+bass	IsA	bass	1
+spoon	UsedFor	spoon	1
+paper clip	AtLocation	paper	1
+keyboard	PartOf	keykeyboard	1
+paper	MadeOf	paper	1
+computer	UsedFor	computer	1
+shark	AtLocation	sh.	1
+chicken	CapableOf	chuck	1
+hammer	UsedFor	hammer	1
+word	AtLocation	word	1
+keyboard	UsedFor	keykeyboard	1
+animal	AtLocation	animal	1
+water	UsedFor	water	1
+window	MadeOf	window	1
+net	UsedFor	net.	1
+dog	AtLocation	dog................	1
+dog	IsA	dog.	1
+attend school	HasSubevent	att	1
+librarian	AtLocation	l.	1
+football	IsA	football................................................	1
+water	AtLocation	water..........	1
+car	CapableOf	car	1
+sky	HasProperty	sky..........	1
+football	IsA	football................................................	1
+love	IsA	love................	1
+knife	CapableOf	knife	1
+music	HasProperty	music	1
+ball	HasProperty	ball................	1
+see	IsA	see	1
+do housework	Causes	do.	1
+dog	IsA	dog.	1
+tennis	IsA	tennis	1
+lion	IsA	lion	1
+statue of liberty	IsA	stat	1
+bird	HasA	bird	1
+teacher	CapableOf	te	1
+pool	UsedFor	pool	1
+wing	UsedFor	wingwing	1
+shoe	AtLocation	sh.	1
+sleep	HasSubevent	sleepsleep	1
+human	CapableOf	human	1
+have checkup	HasPrerequisite	havehave	1
+have haircut	HasPrerequisite	havehave	1
+bus stop	UsedFor	bus stop	1
+book	UsedFor	book	1
+chair	AtLocation	chairchair	1
+see	UsedFor	see	1
+plant	HasA	plant	1
+book	ReceivesAction	book	1
+pilot	CapableOf	pilot	1
+person	NotCapableOf	personphone: +1-800-455-8	1
+doctor	HasProperty	doctor	1
+see exhibit	HasPrerequisite	see..........	1
+cup	CapableOf	cupcup	1
+food	AtLocation	food	1
+car	MadeOf	car	1
+trout	IsA	troutdoors	1
+cheese	MadeOf	checheese	1
+sunset	HasProperty	sun	1
+see band	HasPrerequisite	see	1
+car	HasA	carcar	1
+boy	CapableOf	boyboy capable of	1
+penguin	NotCapableOf	p.	1
+read	Causes	read	1
+do housework	Causes	do.	1
+bed	UsedFor	bed	1
+turtle	IsA	t.	1
+match	UsedFor	matchmatch	1
+carpet	UsedFor	c	1
+knife	AtLocation	knife	1
+eat	HasSubevent	eat	1
+sex	IsA	sexsex	1
+vegetable	IsA	vevegetable	1
+toe	PartOf	toetoe part of	1
+book	UsedFor	book	1
+pilot	CapableOf	pilot	1
+statue of liberty	IsA	stat	1
+maintain muscle strength	HasPrerequisite	m	1
+guitar	HasA	g..........	1
+magician	CapableOf	magnet	1
+listen to music	HasPrerequisite	listlisten to music	1
+doll	IsA	d.	1
+ocean	HasA	o................	1
+commit perjury	HasPrerequisite	commit	1
+cloth	UsedFor	cloth	1
+key	CapableOf	keykey	1
+cloth	UsedFor	cloth	1
+smoke	Causes	sm	1
+buy something	HasPrerequisite	buy	1
+sleep	HasPrerequisite	sleepsleep	1
+pen	AtLocation	pen................	1
+rock	IsA	rock................	1
+pan	UsedFor	panth	1
+exercise	Causes	examine	1
+student	CapableOf	student	1
+car	AtLocation	carth	1
+bird	AtLocation	bird	1
+book	AtLocation	book	1
+venus	IsA	ven................	1
+swiss cheese	HasA	swissin.	1
+fruit	HasProperty	fruit	1
+boat	UsedFor	boat	1
+seven day	AtLocation	seven	1
+have physical exam	HasPrerequisite	havehave	1
+rain	IsA	rain ˈbɪnənənɛnəs	1
+host	CapableOf	host	1
+key	CapableOf	keykey	1
+saddle	UsedFor	saddle	1
+love	CausesDesire	love	1
+tickle	HasSubevent	t	1
+bookshelf	AtLocation	bookshelf	1
+carpet	AtLocation	c.	1
+glass	AtLocation	glass..........	1
+shirt	AtLocation	shirt	1
+apple	HasProperty	apple	1
+peach	IsA	pepeach	1
+book	UsedFor	book	1
+silver	IsA	silver	1
+finch	IsA	f.	1
+cat	CapableOf	cat................	1
+tree	HasA	tree................	1
+horse	HasA	horse	1
+seven continent	AtLocation	sevenseven	1
+corn	IsA	corn	1
+murder	IsA	murder	1
+shingle	AtLocation	syr	1
+diminish your own hunger	HasPrerequisite	dim..........	1
+someone	AtLocation	someone	1
+start family	HasSubevent	start	1
+fruit	UsedFor	fruit	1
+have checkup	HasPrerequisite	havehave	1
+bicycle	AtLocation	b.	1
+money	AtLocation	moneymoney	1
+cat	AtLocation	cat................	1
+water	AtLocation	water..........	1
+golden retriever	IsA	golden.	1
+blue	IsA	blue	1
+chicken	CapableOf	chuck	1
+bed	AtLocation	bed.	1
+iron	IsA	iron	1
+java	IsA	java	1
+ostrich	IsA	ost................	1
+ant	IsA	ant	1
+house	HasA	house................	1
+car	HasA	carcar	1
+jellyfish	AtLocation	j.	1
+dog	CapableOf	dog	1
+boat	AtLocation	boat	1
+earth	HasA	earth................	1
+bicycle	HasA	b..........	1
+go to sport event	HasPrerequisite	go.	1
+dream	HasPrerequisite	dreamdream	1
+music	IsA	music	1
+saxophone	IsA	spor	1
+light match	Causes	light	1
+dealer	CapableOf	dealer	1
+go to bed	HasPrerequisite	go	1
+chicken	IsA	chuck	1
+voice	UsedFor	voice	1
+computer	UsedFor	computer	1
+earth	HasProperty	earth................	1
+elephant	AtLocation	eleec.	1
+prisoner	AtLocation	prison.	1
+key	UsedFor	key	1
+apple	IsA	apple	1
+airplane	AtLocation	air................	1
+child	Desires	childchild	1
+go to get haircut	Causes	go.	1
+play	MotivatedByGoal	play	1
+man	CapableOf	man	1
+biology	IsA	biology................	1
+exercise	HasPrerequisite	exercise	1
+dog	CapableOf	dog	1
+tile	AtLocation	tile	1
+telephone	IsA	telephone	1
+plate	AtLocation	plate................	1
+fruit	HasA	fruit	1
+mastercard	IsA	mastercard	1
+fall	Causes	fall	1
+stop your bicycle	HasSubevent	stop	1
+mushroom	IsA	mocht	1
+read newspaper	MotivatedByGoal	read	1
+clock	CapableOf	clock	1
+run	HasSubevent	run	1
+cat	CapableOf	cat................	1
+pistol	IsA	p.	1
+glass	UsedFor	glass	1
+play sport	UsedFor	play	1
+human	AtLocation	human..........	1
+literature	AtLocation	literature	1
+glass	AtLocation	glass..........	1
+cat	AtLocation	cat................	1
+jump rope	UsedFor	jump	1
+play	Causes	playplay	1
+poodle	IsA	p.	1
+dolphin	IsA	d	1
+nurse	AtLocation	n.	1
+pineapple	IsA	pine.	1
+kill	Causes	kill	1
+finger	PartOf	finger	1
+page	PartOf	page	1
+star	AtLocation	star................	1
+bury cat	HasSubevent	bury	1
+goldfish	IsA	gold	1
+dice	HasA	d	1
+light fire	HasSubevent	light	1
+wash your car	HasSubevent	wash	1
+chimney	AtLocation	ch.	1
+bicycle	AtLocation	b.	1
+lawn mower	AtLocation	lg.lawn mower at location	1
+go on vacation	Causes	go	1
+circle	HasProperty	circle	1
+tablecloth	AtLocation	tabletablecloth	1
+pray	HasPrerequisite	pr	1
+sex	HasProperty	sexsex	1
+pilot	CapableOf	pilot	1
+galaxy	AtLocation	galiat.	1
+person	CapableOf	person	1
+cat	HasA	cat................	1
+find lose item	HasPrerequisite	findfind	1
+use computer	HasSubevent	useuse	1
+cat	AtLocation	cat................	1
+bride	AtLocation	br.	1
+water	HasProperty	water................	1
+watch movie	HasPrerequisite	watch	1
+needle	UsedFor	need..........	1
+pilot	CapableOf	pilot	1
+go to opera	HasPrerequisite	go.	1
+doctor	CapableOf	doctor	1
+bicycle storage area	UsedFor	b.	1
+computer	IsA	computer	1
+star	AtLocation	star................	1
+bread	AtLocation	bread................	1
+dresser	AtLocation	dress	1
+toilet	AtLocation	to	1
+window	AtLocation	window	1
+tuba	IsA	tuba	1
+orchid	IsA	or.	1
+kettle	UsedFor	k	1
+water	HasProperty	water................	1
+person	CapableOf	person	1
+badminton	IsA	bad.	1
+golf	IsA	gates	1
+canada	IsA	can................	1
+home	RelatedTo	home	1
+sex	Causes	sexsex	1
+read	Causes	read	1
+gardener	CapableOf	gard	1
+neighbour	AtLocation	neneighbour	1
+parakeet	IsA	parparakeet	1
+have haircut	Causes	havealive causes	1
+go for drive	HasPrerequisite	go	1
+fish	NotCapableOf	fish	1
+dog	CapableOf	dog	1
+pickle	AtLocation	pick.	1
+opera singer	AtLocation	oper.	1
+something	AtLocation	something	1
+bottle	HasA	bottle.	1
+tickle	Causes	t	1
+go to bed	HasPrerequisite	go	1
+stop your car	HasPrerequisite	stop	1
+bird	AtLocation	bird	1
+plate	AtLocation	plate................	1
+saw	UsedFor	sawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsawsaw	1
+girl	CapableOf	girl	1
+pretend	HasPrerequisite	pretend	1
+table	UsedFor	tabletable	1
+bomb	CapableOf	bomb	1
+yoyo	IsA	yyoyo	1
+chicken	CapableOf	chuck	1
+commit perjury	HasSubevent	commit	1
+key	AtLocation	keykey	1
+jellyfish	AtLocation	j.	1
+potato	AtLocation	pot	1
+sink	AtLocation	syr.	1
+wallet	AtLocation	wallet................	1
+money	AtLocation	moneymoney	1
+horn	IsA	horn	1
+build	AtLocation	build	1
+snowman	MadeOf	syr	1
+tree	IsA	tree	1
+book	AtLocation	book	1
+smoke	Causes	sm	1
+person	CapableOf	person	1
+weapon	UsedFor	weapon	1
+tire	PartOf	t	1
+baseball	IsA	baseball	1
+horse	HasProperty	horse	1
+cat	HasA	cat................	1
+glue	HasProperty	glglue	1
+world	HasProperty	world................	1
+make person laugh	HasPrerequisite	makemake	1
+human	AtLocation	human..........	1
+gather energy for tomorrow	HasSubevent	gates	1
+car	AtLocation	carth	1
+read	HasSubevent	read	1
+guitar	UsedFor	g.	1
+frisbee	AtLocation	f.	1
+read newspaper	HasPrerequisite	read	1
+wheel	HasProperty	wheel	1
+go for haircut	HasPrerequisite	go.	1
+breathe	HasSubevent	b.	1
+comb	CapableOf	comb	1
+eiffel tower	IsA	eiffel tower	1
+person	CapableOf	person	1
+stapler	AtLocation	stapl.stapler 	1
+sex	HasProperty	sexsex	1
+sushi	IsA	spor	1
+paper	HasProperty	paper	1
+ping pong	IsA	pingang	1
+double edge razor	UsedFor	doubledouble edge razor	1
+rest	HasPrerequisite	rest 	1
+person	CapableOf	person	1
+go to sleep	UsedFor	go	1
+chess board	UsedFor	chete	1
+park area	UsedFor	park............................	1
+student	AtLocation	student	1
+human	AtLocation	human..........	1
+human	AtLocation	human..........	1
+potato	AtLocation	pot	1
+state	AtLocation	state................	1
+stapler	AtLocation	stapl.stapler 	1
+book	PartOf	book	1
+gravity	IsA	gravity	1
+woodwind	IsA	wood.	1
+piano	IsA	p.	1
+guitar	IsA	g.guitar is a	1
+anger	IsA	anger	1
+food	ReceivesAction	foodfood	1
+cat	CapableOf	cat................	1
+toilet paper	AtLocation	to.	1
+giraffe	AtLocation	g.	1
+china	IsA	ch)	1
+day	HasProperty	day..........	1
+banana	IsA	banana	1
+pillow	AtLocation	pillpillow	1
+horse	UsedFor	horse	1
+christianity	IsA	christen.christianity is a	1
+food	AtLocation	food	1
+eiffel tower	AtLocation	e	1
+food	AtLocation	food	1
+grass	AtLocation	grass.	1
+earth	NotIsA	earth is a	1
+milk	AtLocation	milk	1
+plastic	IsA	plplastic	1
+black hole	AtLocation	black	1
+criminal	AtLocation	criminal	1
+car	AtLocation	carth	1
+play game with your friend	Causes	playplay	1
+creek	AtLocation	c.	1
+bowl	AtLocation	bowlball	1
+contemplate	HasPrerequisite	cont..........	1
+coffee cup	AtLocation	coffee	1
+dog	NotCapableOf	dog................	1
+paint	CapableOf	p.	1
+vegetarian	NotCapableOf	vevegetarian	1
+school	UsedFor	schoolg.	1
+wine	UsedFor	wine is used for	1
+peanut butter	AtLocation	pepeanut butter	1
+seat	AtLocation	seat.	1
+pass your university exam	HasPrerequisite	pass.	1
+canvas	UsedFor	can	1
+book	HasA	book	1
+climb	HasSubevent	clclimb	1
+listen to music	HasSubevent	listlisten to music	1
+be tire	CausesDesire	bebe	1
+apply for job	Causes	apply	1
+someone	AtLocation	someone	1
+letter	AtLocation	letter	1
+get up early	HasPrerequisite	getget up early	1
+maintain good health	Causes	m	1
+go see play	HasPrerequisite	go	1
+horse	CapableOf	horse	1
+have rest	HasSubevent	havehave	1
+chest of drawer	UsedFor	chest	1
+motherboard	AtLocation	mother	1
+7 continent	AtLocation	77	1
+capital	AtLocation	capital................	1
+college	IsA	college................................................	1
+child	CapableOf	child	1
+kiss	IsA	kiss	1
+fruit	HasProperty	fruit	1
+puppy	HasProperty	p.	1
+wrench	UsedFor	w.	1
+ball	CapableOf	ball	1
+necklace	IsA	necklace	1
+sex	HasProperty	sexsex	1
+lion	IsA	lion	1
+dog	IsA	dog.	1
+jump out of window	HasPrerequisite	jump	1
+tissue holder	UsedFor	t	1
+person	Desires	person	1
+pass course	HasPrerequisite	pass	1
+water	AtLocation	water..........	1
+snow	AtLocation	spor	1
+lizard	AtLocation	lizard	1
+cpu	PartOf	cpu	1
+whale	AtLocation	wh.	1
+elementary school	IsA	elementary school	1
+soup	IsA	ssoup	1
+student	AtLocation	student	1
+pencil	UsedFor	pencil	1
+dog	CapableOf	dog	1
+plane	CapableOf	planeplane	1
+nose	PartOf	n.	1
+chess	IsA	chete	1
+rabbit	IsA	r.	1
+cat	IsA	cat.	1
+butterfly	IsA	but	1
+go for drive	HasPrerequisite	go	1
+hat	ReceivesAction	hat	1
+rifle	IsA	r..........	1
+robin	IsA	ro.	1
+woman	HasA	woman	1
+car	ReceivesAction	carth	1
+planet earth	HasProperty	planet	1
+walk in rain	HasSubevent	walkwalk in rain	1
+coffee	HasProperty	coffee	1
+highway	IsA	high............................	1
+ball	IsA	ballball	1
+hammer	UsedFor	hammer	1
+telephone	AtLocation	telephone: +1-1-888-223-4747	1
+teacher	CapableOf	te	1
+awake	HasSubevent	awake	1
+door	AtLocation	door..........	1
+cat	CapableOf	cat................	1
+dust bunny	AtLocation	dust.	1
+butter	IsA	butbutter	1
+student	AtLocation	student	1
+procreate	Causes	propro	1
+chair	AtLocation	chairchair	1
+bottle	IsA	bottle.	1
+slide	AtLocation	slslide	1
+play game	HasSubevent	play	1
+water and oil	NotCapableOf	water	1
+guitar	HasA	g..........	1
+sleep	HasPrerequisite	sleepsleep	1
+basketball	HasProperty	basketball	1
+rock	AtLocation	rock.	1
+go to zoo	Causes	go	1
+brake	CapableOf	brakekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekeke	1
+pass class	HasPrerequisite	pass	1
+see old thing	HasPrerequisite	see	1
+meet person	HasSubevent	meet.	1
+needle	HasProperty	need	1
+play game	HasSubevent	play	1
+ocean	UsedFor	o................	1
+passenger	CapableOf	passenger	1
+get job	HasSubevent	get	1
+car	CapableOf	car	1
+bank	UsedFor	bank	1
+commit suicide	HasSubevent	commit suicide	1
+triangle	HasA	triangle	1
+book	ReceivesAction	book	1
+miner	CapableOf	min	1
+tool	AtLocation	tool	1
+enjoy film	HasSubevent	enenjoy	1
+dream	HasSubevent	dream................	1
+shovel	CapableOf	sh	1
+cookie	HasProperty	cookie	1
+urinate	MotivatedByGoal	urur	1
+go to laundromat	Causes	go	1
+play violin	Causes	play	1
+write instrument	UsedFor	write	1
+tack	HasProperty	t	1
+pub	UsedFor	pub.	1
+agree with someone	HasSubevent	agreeagreeagreeagreeagreeagreeagreeagreeagreeagreeagreeagreeagreewith	1
+sand	AtLocation	sand	1
+restaurant	IsA	restaurant.	1
+meat	UsedFor	meat	1
+go to movie	HasPrerequisite	go	1
+screwdriver	CapableOf	schellem	1
+stay healthy	Causes	stay	1
+tongue	CapableOf	t	1
+pianist	CapableOf	p.	1
+salad	IsA	sal................	1
+die	HasSubevent	die	1
+school bus	HasProperty	school.	1
+gun	CapableOf	gun	1
+mouse	AtLocation	mouse	1
+lock	AtLocation	lock................	1
+crab	AtLocation	crab.crab __________________	1
+corner cupboard	AtLocation	cor................	1
+water	AtLocation	water..........	1
+bomb	CapableOf	bomb	1
+cornea	PartOf	cineutinineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineineine	1
+tomato	IsA	tom.	1
+wake up	HasFirstSubevent	wakewake up wake up wake up 	1
+sleep	MotivatedByGoal	sleep	1
+egg	IsA	egg	1
+chair	UsedFor	chairchair	1
+leaf	AtLocation	leaf............................	1
+bread	MadeOf	bread	1
+fry pan	UsedFor	f.	1
+arm	PartOf	arm............................	1
+tree	CapableOf	tree	1
+carpenter	CapableOf	cine	1
+green	IsA	green	1
+bed	UsedFor	bed	1
+blanket	UsedFor	blank	1
+baby	CapableOf	baby	1
+lion	AtLocation	l.	1
+monitor	PartOf	monitor	1
+islam	IsA	is	1
+human	CapableOf	human	1
+usenet newsgroup	PartOf	us.usenet newsgroup 	1
+san francisco	IsA	sanchan.san francisco is a	1
+have sex	HasSubevent	havehave sex	1
+boat	IsA	boat	1
+man	CapableOf	man	1
+sport	HasProperty	syr	1
+computer	UsedFor	computer	1
+dog	HasA	dog................	1
+farmer	CapableOf	farfarmer	1
+match	CapableOf	matchmatch	1
+air	IsA	air	1
+snore	HasPrerequisite	sn	1
+drive	HasPrerequisite	drive	1
+brain	AtLocation	brainbrain	1
+pen	HasA	pen	1
+visit other country	HasPrerequisite	visit	1
+dentist	IsA	dorf.dentist is a	1
+hockey	IsA	h.hockey is a	1
+empty your bladder	HasPrerequisite	empty	1
+thief	CapableOf	ththief	1
+apple	ReceivesAction	apple 	1
+neighbor	AtLocation	neneighbor	1
+passenger	CapableOf	passenger	1
+hanger	AtLocation	h.	1
+read magazine	HasSubevent	read	1
+babysitter	CapableOf	b.	1
+boy	CapableOf	boyboy capable of	1
+skate	HasSubevent	skier.skate has sub	1
+french	IsA	f.	1
+bar stool	UsedFor	bar	1
+play tennis	HasSubevent	play.	1
+see your favorite show	Causes	see................	1
+go to play	Causes	go	1
+program	AtLocation	program	1
+sing	Causes	singing	1
+teacher	AtLocation	te.	1
+person	CapableOf	person	1
+thief	CapableOf	ththief	1
+have fun	HasSubevent	havehave fun	1
+book	AtLocation	book	1
+love	CausesDesire	love	1
+rest	HasSubevent	rest __________________	1
+commercial	AtLocation	commercial..........commercial	1
+reproduce	HasSubevent	re.	1
+horse	CapableOf	horse	1
+get up early	HasPrerequisite	getget up early	1
+cook	CapableOf	cook	1
+person	CapableOf	person	1
+internet	UsedFor	internet is an acronym.	1
+cold	CausesDesire	cold	1
+fan	UsedFor	fanfan	1
+chair	HasProperty	chairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchairchair	1
+author	CapableOf	author	1
+artist	CapableOf	artist	1
+highway	UsedFor	high............................	1
+person	CapableOf	person	1
+play game	UsedFor	play	1
+bathe	HasSubevent	bat	1
+bathtub	UsedFor	bath......................	1
+chalk	UsedFor	ch)	1
+someone	AtLocation	someone	1
+floor	UsedFor	floor	1
+weasel	AtLocation	we	1
+lizard	AtLocation	lizard	1
+mouse	AtLocation	mouse	1
+man	Desires	man	1
+take shower	HasSubevent	take	1
+death	PartOf	deathdeath	1
+drum	IsA	drum	1
+scissor	UsedFor	schellem	1
+grass	AtLocation	grass.	1
+soap	UsedFor	soaloo.	1
+food	UsedFor	foodfood	1
+cake	HasProperty	cake	1
+viola	IsA	viol	1
+wheel	PartOf	wheel	1
+person	CapableOf	person	1
+human	IsA	human	1
+rice	IsA	rice பப்ப்புன் is	1
+eraser	MadeOf	ereraser	1
+chopstick	UsedFor	chick	1
+knife	UsedFor	knife	1
+saturn	IsA	saturn	1
+mar	IsA	mar	1
+mouse	IsA	mouse	1
+galaxy	PartOf	galigi.galaxy part of	1
+exercise	HasProperty	exercise	1
+jack	IsA	jack	1
+jack	IsA	jack	1
+build	HasProperty	build	1
+your tooth	AtLocation	your................your	1
+ride horse	HasSubevent	ride	1
+gamble	HasProperty	gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gamble.gam	1
+food	AtLocation	food	1
+cut your hair	HasPrerequisite	cut	1
+person	CapableOf	person	1
+computer	AtLocation	computer	1
+refrigerator	UsedFor	refrigerator	1
+lizard	HasProperty	lizard	1
+disco	UsedFor	d.	1
+bathe	HasPrerequisite	bat	1
+reproduce	HasPrerequisite	re.	1
+seat	AtLocation	seat.	1
+car	AtLocation	carth	1
+fly in airplane	HasPrerequisite	flyfly in airplane	1
+swim	HasPrerequisite	swimming	1
+cross street	Causes	cross	1
+colorado	IsA	color............................	1
+california	IsA	cal.	1
+dog	HasA	dog................	1
+get something	HasPrerequisite	getget	1
+flask	UsedFor	flflask	1
+get pay	HasPrerequisite	getget	1
+quill	UsedFor	quip	1
+food	AtLocation	food	1
+marijuana	IsA	m	1
+computer	AtLocation	computer	1
+fish	AtLocation	fish	1
+wristwatch	UsedFor	wrist	1
+book	AtLocation	book	1
+write	HasSubevent	write	1
+go for swim	HasSubevent	go.	1
+pepper and salt	UsedFor	pepepper and salt	1
+person	CapableOf	person	1
+pretend	HasPrerequisite	pretend	1
+cereal bowl	UsedFor	ce................	1
+human	HasA	human	1
+compete	HasSubevent	comp................	1
+box	IsA	box	1
+coke	IsA	coke	1
+chew your food	Causes	chechew your food	1
+brain	IsA	brainbrain	1
+floor	AtLocation	floor	1
+library	HasA	library............................	1
+book	HasA	book	1
+can food	AtLocation	can	1
+play guitar	HasSubevent	play	1
+cat	HasA	cat................	1
+lawyer	CapableOf	lawyer	1
+something	AtLocation	something	1
+telephone	AtLocation	telephone: +1-1-888-223-4747	1
+hummingbird	CapableOf	hum..........	1
+cat	IsA	cat.	1
+drink	HasPrerequisite	drink	1
+star trek	IsA	star	1
+read	MotivatedByGoal	read	1
+radio	CapableOf	radio............................	1
+literature	UsedFor	literature	1
+attend lecture	HasSubevent	att	1
+read news	HasPrerequisite	read	1
+stage	UsedFor	stage	1
+fur	UsedFor	furfur	1
+answer question	HasPrerequisite	answer	1
+fork	AtLocation	fork	1
+baseball field	UsedFor	baseball	1
+winter	HasProperty	winter	1
+drink alcohol	HasSubevent	dr.	1
+dream	HasPrerequisite	dreamdream	1
+finger	CapableOf	finger	1
+person	PartOf	person	1
+compete	MotivatedByGoal	comp..........	1
+full bladder	CausesDesire	full	1
+human	CapableOf	human	1
+play poker	HasSubevent	play	1
+pillow case	UsedFor	pillpillow	1
+person	CapableOf	person	1
+star	AtLocation	star................	1
+bird	AtLocation	bird	1
+pantry	AtLocation	p.	1
+towel rack	AtLocation	t	1
+open gift	Causes	open	1
+telephone	UsedFor	telephone	1
+monkey	Desires	monkey	1
+violin	UsedFor	violinstrument	1
+computer	CapableOf	computer	1
+salt	UsedFor	spor	1
+drawer	AtLocation	drawdrawer	1
+banana	HasProperty	banana	1
+physic	IsA	phys	1
+wine	IsA	wine	1
+tiger	AtLocation	t.	1
+cucumber	IsA	cucumber	1
+person	CapableOf	person	1
+eye	UsedFor	eyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeyeeye	1
+red	IsA	red	1
+study	HasSubevent	studystudy	1
+denim	IsA	denim	1
+metal	IsA	metal	1
+france	IsA	f.	1
+frog	IsA	frogfrog	1
+novel	IsA	no.	1
+brazil	IsA	b................	1
+information	AtLocation	information	1
+have sex	Causes	have	1
+work	NotHasProperty	workwork	1
+bicycle	UsedFor	b.	1
+shoe	UsedFor	sh	1
+dog	NotCapableOf	dog................	1
+have rest	MotivatedByGoal	havehave	1
+most pizza	HasA	most	1
+paper	UsedFor	paper	1
+sit down	HasPrerequisite	sit	1
+atheist	CapableOf	atheatheist	1
+person	Desires	person	1
+something	AtLocation	something	1
+detective	CapableOf	detective	1
+play sport	HasSubevent	play	1
+horse	ReceivesAction	horse 	1
+alcohol	CapableOf	alcohol	1
+something	AtLocation	something	1
+some car	HasProperty	somesome car	1
+pony	IsA	p.	1
+house	HasA	house................	1
+teacher	CapableOf	te	1
+your neighbor	AtLocation	your................	1
+gun	UsedFor	gun	1
+wine	HasA	wine................	1
+poker	IsA	p.	1
+remember phone number	HasPrerequisite	rememberremember	1
+food	AtLocation	food	1
+visit other country	HasPrerequisite	visit	1
+moon	AtLocation	moon................	1
+flower	AtLocation	flowerflower	1
+take bus	HasPrerequisite	take	1
+frisbee	HasProperty	f.	1
+alcohol	CapableOf	alcohol	1
+rose	HasA	rose	1
+human	AtLocation	human..........	1
+jewish person	AtLocation	jewel.	1
+kitchen	UsedFor	kitkitchen	1
+human	AtLocation	human..........	1
+mirror	AtLocation	mirror	1
+oxygen	IsA	oxy................	1
+train	CapableOf	train	1
+woman	CapableOf	woman	1
+girl	AtLocation	girl	1
+cheese	IsA	checheese	1
+someone	AtLocation	someone	1
+submarine	AtLocation	sub	1
+move car	Causes	movemove	1
+blacksmith	CapableOf	blblacksmith	1
+duck	HasA	du	1
+hamburger	AtLocation	ham....hamburger 	1
+get drunk	HasPrerequisite	getget	1
+person	CapableOf	person	1
+carpet pad	AtLocation	c	1
+condominium	UsedFor	condcondominium	1
+sate your hunger	HasPrerequisite	sis	1
+shoe	ReceivesAction	sh	1
+cross street	HasPrerequisite	cross	1
+someone	AtLocation	someone	1
+bicycle	IsA	b.	1
+shirt	IsA	shirt	1
+something	AtLocation	something	1
+play piano	HasPrerequisite	play	1
+fire	CapableOf	fire	1
+stopwatch	CapableOf	stop	1
+attend classical concert	HasPrerequisite	att	1
+usher	CapableOf	.................	1
+cup	UsedFor	cup	1
+person	CapableOf	person	1
+walk in rain	Causes	walkwalk	1
+bomb	CapableOf	bomb	1
+fan	UsedFor	fanfan	1
+parent	CapableOf	parent	1
+raisin	IsA	ra.	1
+bird	AtLocation	bird	1
+traveller	AtLocation	t.	1
+something	AtLocation	something	1
+something	AtLocation	something	1
+go to school	HasSubevent	go	1
+man	HasA	man	1
+bomb	UsedFor	bomb	1
+mechanic	CapableOf	me..........	1
+someone	AtLocation	someone	1
+jump out of window	HasSubevent	jump out of window	1
+cake	AtLocation	cake	1
+read magazine	HasPrerequisite	read	1
+mother	CapableOf	mother	1
+play sport	HasSubevent	play	1
+tv	IsA	tv................	1
+pipe	UsedFor	pipe	1
+water	CapableOf	water	1
+go to bed	Causes	go	1
+tickle	Causes	t	1
+tool	UsedFor	tool	1
+study	HasSubevent	studystudy	1
+saxophone	IsA	spor	1
+bomb	UsedFor	bomb	1
+plant	HasProperty	plant..........	1
+skyscraper	IsA	skorea	1
+soap	UsedFor	soaloo.	1
+person	CapableOf	person	1
+fruit	HasProperty	fruit	1
+person	CapableOf	person	1
+person	CapableOf	person	1
+master bedroom	UsedFor	master	1
+have asthma attack	HasPrerequisite	havehave	1
+ticket office	UsedFor	ticket	1
+bookstore	UsedFor	bookstore	1
+diner	UsedFor	d.	1
+sailor	CapableOf	shire	1
+have food	UsedFor	havehave	1
+student	CapableOf	student	1
+tooth	UsedFor	to	1
+classroom	UsedFor	class	1
+propose to woman	Causes	proproposal	1
+ruler	CapableOf	r..........	1
+airplane	UsedFor	air................	1
+dresser	UsedFor	dress	1
+feather	UsedFor	fe................	1
+window	UsedFor	window	1
+submarine	IsA	submarine	1
+bagpipe	UsedFor	bag	1
+listen to radio	HasSubevent	listlisten to	1
+find lose item	HasPrerequisite	findfind	1
+pulpit	UsedFor	p.	1
+live	HasSubevent	live.	1
+dog	IsA	dog.	1
+fish	AtLocation	fish	1
+salt	AtLocation	spor	1
+card catalog	AtLocation	card	1
+cd	AtLocation	cd	1
+planet	AtLocation	planet	1
+clarinet	AtLocation	cl.clarinet????	1
+wine list	AtLocation	wine	1
+mouthwash	AtLocation	mouthwash	1
+rosebush	AtLocation	rosebush	1
+elephant	AtLocation	eleec.	1
+play game	HasSubevent	play	1
+sheet	UsedFor	sheet	1
+computer	CapableOf	computer	1
+potato	IsA	pot	1
+bread	UsedFor	bread................	1
+music stand	UsedFor	music	1
+razor	UsedFor	razor	1
+student	AtLocation	student	1
+ball	UsedFor	ball	1
+dinner	IsA	dg	1
+notebook	AtLocation	note	1
+ear	UsedFor	earear	1
+chocolate	IsA	choch.	1
+son	PartOf	son..........	1
+gun	IsA	gun	1
+lettuce	IsA	lett	1
+car	IsA	carcar	1
+fork	UsedFor	fork is used for	1
+human	IsA	human	1
+fall	IsA	fall	1
+night	HasProperty	nightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnightnight	1
+steel	IsA	steel	1
+sword	HasProperty	sword	1
+chocolate	IsA	choch.	1
+leaf	PartOf	leafleaf	1
+crappie	IsA	c	1
+salamander	IsA	sal................	1
+table tennis	IsA	table	1
+pelican	IsA	pel................	1
+pencil	UsedFor	pencil	1
+god	PartOf	god	1
+library	UsedFor	library............................	1
+paris	IsA	paris a	1
+music	IsA	music	1
+most person	HasProperty	most	1
+most person	HasProperty	most	1
+car	HasA	carcar	1
+girl	IsA	girl	1
+bicycle	IsA	b.	1
+nose	AtLocation	n.	1
+there	IsA	therethere	1
+propose to woman	MotivatedByGoal	pro.	1
+have sex	HasSubevent	havehave sex	1
+house	HasA	house................	1
+pig	NotCapableOf	p.	1
+clothe	AtLocation	clothes	1
+sushi	IsA	spor	1
+sock	AtLocation	s	1
+student	CapableOf	student	1
+eat breakfast	HasPrerequisite	eat	1
+apple	HasProperty	apple	1
+soap	UsedFor	soaloo.	1
+corn	IsA	corn	1
+glass	HasProperty	glass	1
+high rise	IsA	high............................	1
+go to party	UsedFor	go	1
+program	HasPrerequisite	program	1
+music	CreatedBy	music	1
+sock	AtLocation	s	1
+policeman	CapableOf	p.	1
+paper	HasProperty	paper	1
+chicken	IsA	chuck	1
+sofa	IsA	so.	1
+see art	HasPrerequisite	see..........	1
+go for haircut	HasPrerequisite	go.	1
+knife	CapableOf	knife	1
+classroom	IsA	class	1
+floor	AtLocation	floor	1
+clerk	CapableOf	cloch.	1
+bunsen burner	AtLocation	b.bunsen @ ike.com	1
+horse	AtLocation	horse	1
+rope	AtLocation	ro..........	1
+police officer	CapableOf	police..........	1
+dog	HasProperty	dog................	1
+read	HasSubevent	read	1
+bridge	UsedFor	bridge............................	1
+cat	HasA	cat................	1
+puck	AtLocation	p.	1
+bill	AtLocation	bill..........	1
+grocer	CapableOf	gro..........	1
+person	CapableOf	person	1
+watch even news	HasPrerequisite	watchwatch	1
+have epileptic fit	HasSubevent	havehave	1
+bell	AtLocation	bell.@	1
+reproduce	HasPrerequisite	re.	1
+book	AtLocation	book	1
+movie	AtLocation	movie	1
+have nervous breakdown	HasSubevent	havehave	1
+get some money from someone	HasPrerequisite	getget some money from someone	1
+deaf person	NotCapableOf	de	1
+floor	UsedFor	floor	1
+woman	CapableOf	woman	1
+go for swim	HasSubevent	go.	1
+actor	AtLocation	actor	1
+match	CapableOf	matchmatch	1
+empty your bladder	HasPrerequisite	empty	1
+tank	ReceivesAction	tank,	1
+car	CapableOf	car	1
+nurse	CapableOf	n.	1
+detective	CapableOf	detective	1
+contraceptive	UsedFor	contactuality	1
+grain of sand	HasProperty	grain	1
+wait in line	Causes	waitwait in line	1
+visitor	CapableOf	vis..........	1
+knife	AtLocation	knife	1
+gideon bible	AtLocation	gates	1
+towel bar	UsedFor	t	1
+some plastic	ReceivesAction	somesome of	1
+passenger	CapableOf	passenger	1
+sew	HasPrerequisite	se	1
+think	HasPrerequisite	think	1
+clothe	AtLocation	clothes	1
+typewriter	UsedFor	typ	1
+rack	AtLocation	rack	1
+party	HasProperty	party.	1
+fire engine	HasProperty	fire	1
+dog	IsA	dog.	1
+watch television show	HasPrerequisite	watchwatch television show has prequisite	1
+go to hairdresser	HasSubevent	go	1
+something	AtLocation	something	1
+something	AtLocation	something	1
+soda	IsA	scoffee	1
+spanish restaurant	UsedFor	spanish restaurant	1
+pocket knife	IsA	pocketknife	1
+enjoy film	HasSubevent	enenjoy	1
+ski	HasPrerequisite	ski பஸஸஸஸஸஸஸஸஸ்	1
+two person	HasA	two	1
+chat with friend	Causes	chat	1
+vintner	CapableOf	vys	1
+love	IsA	love................	1
+someone	AtLocation	someone	1
+dog	CapableOf	dog	1
+watch tv	HasSubevent	watch	1
+plane	CapableOf	planeplane	1
+canada	HasProperty	can....	1
+relax	Causes	relax	1
+banjo	IsA	ban	1
+guitare	IsA	g.guitare is a	1
+diminish your own hunger	HasSubevent	dim..........	1
+express how funny something	HasSubevent	express	1
+chop firewood	HasPrerequisite	ch)	1
+play frisbee	HasSubevent	play	1
+stop your car	HasPrerequisite	stop	1
+bathe	Causes	bat	1
+stone	IsA	stone	1
+baseball	IsA	baseball	1
+beanie	IsA	bean.	1
+cowboy boot	MadeOf	cowboy boot	1
+rubber duck	HasProperty	rub	1
+baby animal	HasProperty	baby	1
+fedora	IsA	fed................	1
+play ball	HasSubevent	play	1
+shotgun	IsA	shot	1
+gather energy for tomorrow	HasPrerequisite	g.	1
+have examination	HasPrerequisite	havehave prequisite	1
+plane	CapableOf	planeplane	1
+get up early	HasPrerequisite	getget up early	1
+make friend	HasPrerequisite	makemake	1
+person	Desires	person	1
+new york	IsA	new.	1
+clarinet	IsA	cl................	1
+reproduce	Causes	rereproduce	1
+bean	IsA	bean	1
+play basketball	HasSubevent	play..........	1
+camper	CapableOf	cam................	1
+hear news	HasPrerequisite	hehe	1
+hill	UsedFor	hill is used for	1
+comb	UsedFor	comb	1
+turtle	CapableOf	t	1
+tie your shoelace	UsedFor	tie	1
+paint house	HasPrerequisite	p.	1
+woman	CapableOf	woman	1
+president	CapableOf	president	1
+piggy bank	UsedFor	p.	1
+think	UsedFor	think	1
+watch television	HasPrerequisite	watch	1
+sofa bed	UsedFor	so................	1
+buy food	HasPrerequisite	buy	1
+towel rack	UsedFor	t	1
+brownstone	UsedFor	brownbrownstone	1
+lawyer	CapableOf	lawyer	1
+fork	UsedFor	fork is used for	1
+egg	AtLocation	egg................	1
+sun	AtLocation	sun................	1
+tenor	AtLocation	ten.	1
+audience	AtLocation	audaudience	1
+human	AtLocation	human..........	1
+staple	AtLocation	st.	1
+key	AtLocation	keykey	1
+trash	AtLocation	trash	1
+city	AtLocation	city................	1
+shop basket	AtLocation	shop	1
+science	AtLocation	science............................	1
+closet	AtLocation	clothes	1
+foot	AtLocation	foot............................	1
+cavity	AtLocation	c	1
+statue	AtLocation	stat	1
+person	Desires	person	1
+book	CreatedBy	book	1
+xylophone	IsA	xylophone	1
+broom	UsedFor	b.	1
+knife	UsedFor	knife	1
+english	IsA	english	1
+lemon	HasProperty	lelemon	1
+trigger	PartOf	trigger	1
+baseball	UsedFor	baseball	1
+table	AtLocation	tabletable	1
+oil	HasProperty	oiloil	1
+cup	UsedFor	cup	1
+tree	AtLocation	tree................	1
+pencil	MadeOf	pencil	1
+london	IsA	l.	1
+swim	IsA	swimming	1
+child	CapableOf	child	1
+door	PartOf	door	1
+pot	UsedFor	pot	1
+rock	HasProperty	rock................	1
+palm	PartOf	palpalm	1
+coffee	MadeOf	coffee	1
+paper	HasProperty	paper	1
+fish	IsA	fish	1
+jean	MadeOf	j.	1
+fruit	HasProperty	fruit	1
+robot	IsA	ro..........	1
+pilot	CapableOf	pilot	1
+backgammon	IsA	back.	1
+jupiter	IsA	j	1
+lake	IsA	lake	1
+spider	IsA	sp.	1
+whale	IsA	whale.	1
+beaver	IsA	bebeaver	1
+pheasant	IsA	phe	1
+crow	IsA	crow	1
+hawk	IsA	hawk	1
+goose	IsA	go	1
+perl	IsA	per................	1
+c	IsA	cis a	1
+bird	CapableOf	birdbird capable of	1
+sex	Causes	sexsex	1
+fish	AtLocation	fish	1
+dog	Desires	dog..........	1
+dog	NotCapableOf	dog................	1
+cat	IsA	cat.	1
+buy present for others	HasPrerequisite	buy	1
+twenty four hour	AtLocation	tw.twenty four hour	1
+phone	AtLocation	phone..........	1
+atheist	NotCapableOf	atheatheist	1
+dog	UsedFor	dog	1
+college	AtLocation	college.edu.edu.	1
+feather	AtLocation	fe.	1
+shovel	UsedFor	sh	1
+soap	UsedFor	soaloo.	1
+apple	HasProperty	apple	1
+eat breakfast in bed	HasSubevent	eat	1
+commit to memory	HasSubevent	commit	1
+learn	HasPrerequisite	learnlearn	1
+unix	IsA	un	1
+unix	IsA	un	1
+write term paper	HasPrerequisite	write	1
+sailboat	ReceivesAction	sire	1
+kitten	DefinedAs	k.	1
+pray	HasSubevent	pr	1
+shop	HasPrerequisite	shop	1
+kill	HasProperty	kill	1
+bottle	UsedFor	bottle.	1
+sleep	HasPrerequisite	sleepsleep	1
+music	HasProperty	music	1
+men and woman	HasProperty	mengazette	1
+tongue	AtLocation	t	1
+plate	AtLocation	plate................	1
+become inebriate	HasPrerequisite	bec.	1
+sail	HasProperty	spor	1
+boy	IsA	boy	1
+beer	IsA	beer	1
+study	HasPrerequisite	studystudy	1
+city	IsA	city.	1
+fart	Causes	f-	1
+smoke cigarette	Causes	smh.	1
+compete against someone	HasPrerequisite	compress	1
+roof tile	AtLocation	ro................	1
+toothbrush	UsedFor	to................	1
+go to performance	HasPrerequisite	go.	1
+create idea	HasPrerequisite	create	1
+surprise someone	HasPrerequisite	sur	1
+meet interest person	HasSubevent	meet.	1
+take phone call	HasPrerequisite	take	1
+reach tentative agreement	HasPrerequisite	reach..........	1
+lie	HasSubevent	lie..........	1
+key chain	UsedFor	keykey chain	1
+foot	AtLocation	foot............................	1
+pea	IsA	pepea	1
+compete	HasSubevent	comp................	1
+submarine	CapableOf	sub	1
+watch even news	HasPrerequisite	watchwatch	1
+play	HasSubevent	play	1
+have bath	HasPrerequisite	havehave	1
+apple	AtLocation	apple	1
+slave	IsA	slave is a	1
+drive	HasSubevent	drive	1
+restaurant	UsedFor	restowns	1
+chess board	HasA	chechess	1
+school	AtLocation	school..........	1
+chat with friend	HasSubevent	chat	1
+have bath	HasSubevent	havehave	1
+baggage	AtLocation	b.	1
+paint picture	HasSubevent	p.	1
+relax	HasSubevent	relax	1
+cookie	AtLocation	cookie	1
+baby	CapableOf	baby	1
+strike match	Causes	strike	1
+banker	CapableOf	banker	1
+bury cat	HasPrerequisite	burybury cat	1
+earn live	HasPrerequisite	earearn	1
+twenty-four hour	AtLocation	tw.twenty-four hour 	1
+person	CapableOf	person	1
+furnace	AtLocation	f.	1
+play sport	UsedFor	play	1
+stair	UsedFor	st.	1
+park lot	UsedFor	park............................	1
+terrorist	CapableOf	terrorist	1
+wood	UsedFor	wood............................	1
+pool	UsedFor	pool	1
+play game	HasPrerequisite	play	1
+duck	HasA	du	1
+play basketball	HasSubevent	play..........	1
+ball	CapableOf	ball	1
+stethoscope	AtLocation	st.	1
+make patchwork quilt	HasSubevent	makemake	1
+leave	AtLocation	leave	1
+plant	HasA	plant	1
+pay bill	HasPrerequisite	pay	1
+skin	UsedFor	skin is used for	1
+spanish	IsA	sp.	1

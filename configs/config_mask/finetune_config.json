@@ -1,0 +1,12 @@
+{
+    "saved_data_pth": "data/processed_finetune_dataset.pkl",
+    "raw_data_pth": "data/finetune_raw_data.pkl",
+    "processed_data_pth": "None",
+    "epoch_num": 10,
+    "batch_size": 64,
+    "num_accumulation": 2,
+    "log_pth": "finetune_log/test.txt",
+    "gen_pth": "gen/",
+    "best_model_pth": "finetune_models/test.pkl",
+    "load_model_pth": "pretrain_models/test.pkl"
+}
